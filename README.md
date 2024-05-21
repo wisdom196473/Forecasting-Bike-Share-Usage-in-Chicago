@@ -13,4 +13,4 @@ The dataset provided by Divvy includes historical trip data that is publicly ava
  * **Trip Start Station**: The station where the bike trip began.
  * **Trip End Station**: The station where the bike trip concluded.
  * **Rider Type**: The category of the rider, which includes Member, Single Ride, and Day Pass.
- * Download the data directly from: https://divvybikes.com/system-data
+ * [Chicago Divvy Bicycle Data](https://divvybikes.com/system-data)
